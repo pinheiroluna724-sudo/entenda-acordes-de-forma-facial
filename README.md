@@ -1,1 +1,1 @@
-![QR Code](https://qr-code-generator.com/api/qr?qr=https://pinheiroluna724-sudo.github.io/entenda-acordes-de-forma-facial/&logo=https://urldalogo.com/dinossauro.png)
+[![QR Code com Logo](https://www.qr-code-generator.com/api/qr?qr[=https://seusite.com](https://pinheiroluna724-sudo.github.io/entenda-acordes-de-forma-facial/)&logo=https://share.google/jS2U99QUjfZsRizd7)](https://pinheiroluna724-sudo.github.io/entenda-acordes-de-forma-facial/)
